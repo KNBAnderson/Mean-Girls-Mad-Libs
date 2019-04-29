@@ -1,0 +1,14 @@
+/Users/Guest/Desktop/MeanLibs.Solutions/MeanLibs/obj/Debug/netcoreapp2.2/MeanLibs.Solutions.csprojAssemblyReference.cache
+/Users/Guest/Desktop/MeanLibs.Solutions/MeanLibs/obj/Debug/netcoreapp2.2/MeanLibs.Solutions.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/MeanLibs.Solutions/MeanLibs/obj/Debug/netcoreapp2.2/MeanLibs.Solutions.RazorAssemblyInfo.cache
+/Users/Guest/Desktop/MeanLibs.Solutions/MeanLibs/obj/Debug/netcoreapp2.2/MeanLibs.Solutions.RazorAssemblyInfo.cs
+/Users/Guest/Desktop/MeanLibs.Solutions/MeanLibs/obj/Debug/netcoreapp2.2/MeanLibs.Solutions.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/MeanLibs.Solutions/MeanLibs/obj/Debug/netcoreapp2.2/MeanLibs.Solutions.AssemblyInfo.cs
+/Users/Guest/Desktop/MeanLibs.Solutions/MeanLibs/bin/Debug/netcoreapp2.2/MeanLibs.Solutions.deps.json
+/Users/Guest/Desktop/MeanLibs.Solutions/MeanLibs/bin/Debug/netcoreapp2.2/MeanLibs.Solutions.runtimeconfig.json
+/Users/Guest/Desktop/MeanLibs.Solutions/MeanLibs/bin/Debug/netcoreapp2.2/MeanLibs.Solutions.runtimeconfig.dev.json
+/Users/Guest/Desktop/MeanLibs.Solutions/MeanLibs/bin/Debug/netcoreapp2.2/MeanLibs.Solutions.dll
+/Users/Guest/Desktop/MeanLibs.Solutions/MeanLibs/bin/Debug/netcoreapp2.2/MeanLibs.Solutions.pdb
+/Users/Guest/Desktop/MeanLibs.Solutions/MeanLibs/obj/Debug/netcoreapp2.2/MeanLibs.Solutions.RazorTargetAssemblyInfo.cache
+/Users/Guest/Desktop/MeanLibs.Solutions/MeanLibs/obj/Debug/netcoreapp2.2/MeanLibs.Solutions.dll
+/Users/Guest/Desktop/MeanLibs.Solutions/MeanLibs/obj/Debug/netcoreapp2.2/MeanLibs.Solutions.pdb
