@@ -10,6 +10,9 @@ namespace MeanLibs.Models
     private string _profession;
     private string _slang;
     private string _verb;
+    private string _noun;
+    private string _holiday;
+    private string _clique;
 
     public string Adjective { get => _adjective ; set => _adjective = value;  }
 
@@ -23,5 +26,21 @@ namespace MeanLibs.Models
 
     public string Verb { get => _verb; set => _verb = value; }
 
+    public string Noun { get => _noun; set => _noun = value; }
+
+    public string Holiday { get => _holiday; set => _holiday = value; }
+
+    public string Clique { get => _clique; set => _clique = value; }
+
+    public string FirstLetterCapital(string word)
+    {
+      word = word[0].ToString().ToUpper() + word.Substring(1, word.Length-1);
+      return word;
+    }
+
+    public string PluralWord(string word)
+    {
+      return word + "s";
+    }
   }
 }

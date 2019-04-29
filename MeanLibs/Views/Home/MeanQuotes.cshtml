@@ -8,14 +8,32 @@
     <h1>Mean Girls Quotes!!</h1>
     <section class="quote">
       <p>"Oh my God, Karen, you can't just ask people why they're @Model.Adjective!"</p>
+      <p class="name">- Regina</p>
     </section>
 
     <section class="quote">
-      <p>"On @Model.DayOfTheWeek we wear @Model.Color."</p>
+      <p>"On @Model.FirstLetterCapital(@Model.DayOfTheWeek) we wear @Model.Color."</p>
+      <p class="name">- Karen</p>
     </section>
 
     <section class="quote">
+      <p>"You smell like a baby @Model.Profession."</p>
+      <p class="name">- Janice</p>
+    </section>
 
+    <section class="quote">
+      <p>"In @Model.FirstLetterCapital(@Model.Clique) World, @Model.Holiday is the one day a year when a @Model.Clique can dress up like a total @Model.Noun and no other @Model.PluralWord(@Model.Clique) can say anything else about it."</p>
+      <p class="name">- Cady</p>
+    </section>
+
+    <section class="quote">
+      <p>Gretchen: "That is SO @Model.Slang!"</p>
+      <p>Regina: "Gretchen, stop trying to make '@Model.Slang' happen, it's NOT going to happen!"</p>
+    </section>
+
+    <section class="quote">
+      <p>"Don't @Model.Verb, because you will get pregnant and die! Don't @Model.Verb in the @Model.Profession position, don't @Model.Verb standing up, just don't do it, OK, promise? Alright, now everyone take a(n) @Model.Noun."</p>
+      <p>- Coach Carr</p>
     </section>
   </body>
 </html>
